@@ -3,3 +3,7 @@ I just run```sudo apt install mono-mcs```, compile my demo .cs file, get a hello
 
 ## Explain
 
+## Tutorial
+I just want to learn Basic C# so that I can handle Unity Development, and C# is easy!
+- [Learn C# in Y minutes](https://learnxinyminutes.com/docs/csharp/)
+
