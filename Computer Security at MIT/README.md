@@ -1,3 +1,7 @@
+# Course is infinite. Get out of this. Grab a book. Learn. Think.
+
+# [Information Networking Institute](https://www.cmu.edu/ini/academics/index.html)
+
 # [Cryptography](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience&spec=cryptography)
 
 # A serial of courses
