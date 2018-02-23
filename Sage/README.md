@@ -1,4 +1,4 @@
-
+[Simplified DES](http://www.cs.binghamton.edu/~steflik/cs431/notes/Simplified_DES.pdf)
 
 [Cryptography: Sage Math](http://doc.sagemath.org/pdf/en/reference/cryptography/cryptography.pdf)
 
