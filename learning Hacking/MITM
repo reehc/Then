@@ -1,0 +1,32 @@
+### MITM
+- With IP address and a corresponding mask, by logical operations, computer can figure out the network number(Routing table/path decision) and client number(ARP table).
+- In scapy, difference between layer3-send() and layer2-sendp() is that.
+
+# !
+flatmate
+hijacked
+eavesdropping 
+forward
+thesis
+delicate
+impersonate
+impersonification
+intercepted
+tamper
+regarding
+Physical layer: carrier, modulation & encoding
+decapsulates
+legitimate
+automated
+forge
+typos
+probe
+payload
+deceive
+promiscuous
+countermeasure
+Intrusion
+unsolicited
+resistor
+coil
+dissertation
