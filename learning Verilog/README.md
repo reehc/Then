@@ -1,7 +1,7 @@
 
 ## CMOS = NMOS + PMOS
-	**NMOS**: high -> high, low -> low
-	**PMOS**: high -> low, low -> high
+	NMOS: high -> high, low -> low
+	PMOS: high -> low, low -> high
 
 ## So, it's all ALU.
 
