@@ -1,0 +1,7 @@
+
+echo "export PS1='\$ '" >> ~/.bashrc
+
+fc-cache -fv fonts > /dev/null
+
+dconf load /org/gnome/terminal/legacy/profiles:/ < cheer.dconf
+

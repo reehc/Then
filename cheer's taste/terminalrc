@@ -1,6 +1,24 @@
+Deprecated !
+
+#! /bin/sh
 ### Beautiful Terminal Face
-### reehc
+### holder: reehc
 
-## source [this file] after changes
+## add `source [PATH-TO-THIS-FILE]` to you ~/.bashrc
 
-export PS1="\$ "
+## Tip: Shift + Ctrl + T is an awesome shortcut to create new Tab!
+##		See [Edit] => [Preferences] => [Shortcuts] for more information!
+
+# Prompt
+# export PS1="\$ "
+
+### I shouldn't add this...
+#which dconf > /dev/null
+#if [$? -eq 1]; then
+#    sudo apt-get -y install dconf-cli > /dev/null
+#fi
+
+# Font & Color-Scheme.Palette
+# dconf load /org/gnome/terminal/legacy/profiles < $PROFILE
+
+

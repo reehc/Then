@@ -1,0 +1,48 @@
+[/]
+list=['c7983591-3e77-42da-9a4e-28a571ab6742']
+default='c7983591-3e77-42da-9a4e-28a571ab6742'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+foreground-color='rgb(255,255,255)'
+rewrap-on-resize=true
+palette=['rgb(0,0,0)', 'rgb(205,0,0)', 'rgb(0,205,0)', 'rgb(205,205,0)', 'rgb(30,144,255)', 'rgb(205,0,205)', 'rgb(0,205,205)', 'rgb(229,229,229)', 'rgb(76,76,76)', 'rgb(255,0,0)', 'rgb(0,255,0)', 'rgb(255,255,0)', 'rgb(70,130,180)', 'rgb(255,0,255)', 'rgb(0,255,255)', 'rgb(255,255,255)']
+use-system-font=false
+use-transparent-background=false
+use-theme-colors=false
+font='Monaco 12'
+use-theme-transparency=false
+bold-color-same-as-fg=true
+background-color='rgb(0,0,0)'
+scrollbar-policy='never'
+
+[:e81ccd37-a363-4bda-92d6-058c30e350c4]
+foreground-color='#4a4a45454343'
+rewrap-on-resize=true
+visible-name='3024 Day'
+palette=['#090903030000', '#dbdb2d2d2020', '#0101a2a25252', '#fdfdeded0202', '#0101a0a0e4e4', '#a1a16a6a9494', '#b5b5e4e4f4f4', '#a5a5a2a2a2a2', '#5c5c58585555', '#e8e8bbbbd0d0', '#3a3a34343232', '#4a4a45454343', '#80807d7d7c7c', '#d6d6d5d5d4d4', '#cdcdabab5353', '#f7f7f7f7f7f7']
+use-system-font=false
+use-transparent-background=false
+use-theme-colors=false
+font='Monospace 12'
+use-theme-transparency=false
+use-theme-background=false
+bold-color-same-as-fg=true
+bold-color='#a5a5a2a2a2a2'
+background-color='#f7f7f7f7f7f7'
+scrollbar-policy='never'
+
+[:c7983591-3e77-42da-9a4e-28a571ab6742]
+foreground-color='#4D4D4D4D4C4C'
+rewrap-on-resize=true
+visible-name='Tomorrow'
+palette=['#000000000000', '#C8C828282828', '#71718C8C0000', '#EAEAB7B70000', '#41417171AEAE', '#89895959A8A8', '#3E3E99999F9F', '#FFFFFEFEFEFE', '#000000000000', '#C8C828282828', '#70708B8B0000', '#E9E9B6B60000', '#41417070AEAE', '#89895858A7A7', '#3D3D99999F9F', '#FFFFFEFEFEFE']
+use-system-font=false
+use-transparent-background=false
+use-theme-colors=false
+font='Monaco 12'
+use-theme-transparency=false
+use-theme-background=false
+bold-color-same-as-fg=true
+bold-color='#FFFFFEFEFEFE'
+background-color='#FFFFFFFFFFFF'
+scrollbar-policy='never'
