@@ -1,0 +1,6 @@
+### Beautiful Terminal Face
+### reehc
+
+## source [this file] after changes
+
+export PS1="\$ "
