@@ -1,1 +1,1 @@
-### Next => [Blundler](https://bundler.io/) !
+### Next => [Bundler](https://bundler.io/) !
